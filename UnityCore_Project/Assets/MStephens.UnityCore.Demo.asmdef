@@ -1,0 +1,15 @@
+{
+    "name": "MStephens.UnityCore.Demo",
+    "references": [
+        "GUID:7c984892a278d48b3b9e536bf60bc6ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
